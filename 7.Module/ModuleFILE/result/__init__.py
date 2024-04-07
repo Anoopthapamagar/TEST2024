@@ -1,0 +1,1 @@
+__all__=['resultTEST']          #to put more we have to use comma

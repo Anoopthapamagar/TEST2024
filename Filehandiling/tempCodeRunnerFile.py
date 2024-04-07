@@ -1,0 +1,11 @@
+lehandiling/Sample.txt','w')
+# name=input('Enter your name: ')
+# email=input('Enter your email: ')
+# address=input('Enter your address: ')
+# age=input('Enter your age: ')
+
+# about.write(f'Hello {name}\n')
+# about.write(f'Address: {address}\n')
+# about.write(f'Email: {email}\n')
+# about.write(f'Age: {age}\n')
+# about.close()

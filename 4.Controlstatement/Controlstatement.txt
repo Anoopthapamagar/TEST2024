@@ -1,0 +1,66 @@
+1.Conditional Statements:
+if: Executes a block of code if a specified condition is true.
+elif: Stands for "else if". It's used to define additional conditions to test if the previous conditions are false.
+else: Executes a block of code if none of the preceding conditions are true.
+Example:
+
+x = 10
+if x > 0:
+    print("x is positive")
+elif x < 0:
+    print("x is negative")
+else:
+    print("x is zero")
+
+
+
+***************************************
+2.Loops:
+for: Iterates over a sequence (e.g., list, tuple, string) or other iterable objects.
+while: Executes a block of code as long as a specified condition is true.
+
+
+Example (for loop):
+fruits = ["apple", "banana", "cherry"]
+for fruit in fruits:
+    print(fruit)
+
+
+Example (while loop):
+i = 1
+while i < 6:
+    print(i)
+    i += 1
+
+
+
+
+***************************************
+3.Control Flow Statements:
+break: Terminates the loop statement it is inside.
+continue: Skips the rest of the code inside a loop for the current iteration, then continues with the next iteration.
+pass: Used when a statement is required syntactically but you do not want any command or code to execute.
+
+
+Example (break):
+fruits = ["apple", "banana", "cherry"]
+for fruit in fruits:
+    print(fruit)
+    if fruit == "banana":
+        break
+ 
+
+Example (continue):
+fruits = ["apple", "banana", "cherry"]
+for fruit in fruits:
+    if fruit == "banana":
+        continue
+    print(fruit)
+
+    
+Example (pass):
+x = 10
+if x > 0:
+    pass  # Placeholder for future code
+else:
+    print("x is not positive")

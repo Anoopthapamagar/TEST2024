@@ -1,0 +1,65 @@
+List of operators
+
+1.Arithmetic Operators:
+
+Addition: +
+Subtraction: -
+Multiplication: *
+Division: /
+Floor Division: //
+Modulus (Remainder): %
+Exponentiation: **
+
+2.Comparison (Relational) Operators:
+
+Equal to: ==
+Not equal to: !=
+Greater than: >
+Less than: <
+Greater than or equal to: >=
+Less than or equal to: <=
+
+3.Assignment Operators:
+
+Assign: =
+Add and Assign: +=
+Subtract and Assign: -=
+Multiply and Assign: *=
+Divide and Assign: /=
+Floor Divide and Assign: //=
+Modulus and Assign: %=
+Exponentiate and Assign: **=
+
+4.Logical Operators:
+
+AND: and
+OR: or
+NOT: not
+
+5.Bitwise Operators:
+
+Bitwise AND: &
+15 binary number is 1111.
+7 binary number is 0111.
+1 & 0 = 0
+1 & 1 = 1
+1 & 1 = 1
+1 & 1 = 1
+So, the result of bitwise AND (&) operation is 0111 in binary, which is 7 in decimal.
+In this example, the bitwise AND of 15 and 7 is 7.
+
+Bitwise OR: |
+Bitwise XOR: ^
+Bitwise NOT: ~
+Left Shift: <<
+Right Shift: >>
+
+6.Membership Operators:
+
+In: in
+Not In: not in
+
+7.Identity Operators:
+
+Is: is
+Is Not: is not
